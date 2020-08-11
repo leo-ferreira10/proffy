@@ -20,6 +20,6 @@ node src/server.js
 Then you can open your browser and access the url: 127.0.0.1:5500<br/>
 You can configure the local port on server.js
 
-# Questions
+## Questions ##
 For any question please contact me:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Léo_Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ferreira-10-)](https://www.linkedin.com/in/leonardo-ferreira-10-/)
