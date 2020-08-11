@@ -1,5 +1,5 @@
-# proffy
-Plataforma de estudos online da #NLW2
+# Proffy
+Study platform taught at [Rocketseat](https://github.com/RocketSeat) NLW #2 with bug fixes and improvements.
 
 # Requirements
 - Node (https://nodejs.org)
